@@ -1,0 +1,7 @@
+1. grep (word to find) file/directory
+
+2. declare -f | grep '^[a-z_]'
+
+3. declare -f quote
+
+
